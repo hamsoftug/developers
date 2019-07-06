@@ -31,20 +31,20 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+   facebook: hamsoftug
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: hamsoftug
   # mastodon: your_username
-  # medium: your_username
+   medium: hamsoftug
   # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+  telegram: hamsoftug
+  twitter: hamsoftug
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: https://hamsoftug.com
+  youtube: hamsoftug
 
 topics:
   - name: CSS
